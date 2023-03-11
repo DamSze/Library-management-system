@@ -21,14 +21,14 @@
   - borrowing/returning a book
   - printing info about the book
   
-  * Customer
+* Customer
   - stores: name, unique id, age, borrowed books, history of borrowed books
   - adding/deleting customers
   - finding customers
   - get the number of borrowed books
   - printing customer's history
   
-  * Worker
+* Worker
   - stores: unique id, salary, name
   - prints all info about the worker
   - adding/deleting workers
