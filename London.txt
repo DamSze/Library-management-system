@@ -1,3 +1,0 @@
-1000;Kuba;4600;1001;Alex;7500;1002;Nguyen;2834.6;1003;Mateusz;3900;1004;Patryk;3100
-20000;Harry Potter;J.K.Rowling;0;1;20001;Stsar;Thomas;1;1;20002;Tom Holl;gvfds;0;1;20003;BBBB;AAA;5;0;20004;Angels and Demons;Dan Brown;7;1;20005;Fifty Shades Freed;Random House;4;0;20006;Eclipse;E.L.James;1;1;20007;Billy Connolly;Stephenie Meyer;3;1;20008;The Alchemist;Paulo Coelho;0;0;20009;A Tale of Two Cities;Charles Dickens;2;0;20010;Dune;Frank Herbert;1;1;20011;Fear of Flying;Erica Jong;4;1;20012;Jaws;Peter Benchley;8;1;20013;Gone Girl;Gillian Flynn;8;1;20014;The Da Vinci Code;Dan Brown;8;0;20015;TestBook;Dan Brown;5;1
-10000;Piotr;18;20014;20009;10001;Tomasz;21;20003;0;10002;Bill;17;20008;20005;10003;Piotr;17;0;0
