@@ -24,7 +24,7 @@ public:
     int get_id();//rerurns id
     int get_age();//returns age
     string get_name();//returns name
-    int booksBorrowed();//rerurns true if Customer has any book borrowed
+    int booksBorrowed();//rerurns number of borrowed books
     void print_history();
     friend ostream& operator<<(ostream& os, const Customer& customer);
     friend class Library;
